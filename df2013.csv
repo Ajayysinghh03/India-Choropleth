@@ -2261,11 +2261,11 @@ Chhattisgarh,SURGUJA,2013,Whole Year ,Jowar,108,63,3.62E-05
 Chhattisgarh,SURGUJA,2013,Whole Year ,Onion,512,3014,0.001731503
 Chhattisgarh,SURGUJA,2013,Whole Year ,Sweet potato,295,1626,0.000934115
 Chhattisgarh,SURGUJA,2013,Whole Year ,Turmeric,150,145,8.33E-05
-Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Kharif     ,Jowar,450,360,0.000206815
-Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Kharif     ,Maize,75,75,4.31E-05
-Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Kharif     ,Ragi,1010,1040,0.000597466
-Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Winter     ,Maize,35,35,2.01E-05
-Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Winter     ,Wheat,131,262,0.000150516
+Dadra and Nagar Haveli and Daman and Diu Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Kharif     ,Jowar,450,360,0.000206815
+Dadra and Nagar Haveli and Daman and Diu Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Kharif     ,Maize,75,75,4.31E-05
+Dadra and Nagar Haveli and Daman and Diu Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Kharif     ,Ragi,1010,1040,0.000597466
+Dadra and Nagar Haveli and Daman and Diu Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Winter     ,Maize,35,35,2.01E-05
+Dadra and Nagar Haveli and Daman and Diu Nagar Haveli,DADRA AND NAGAR HAVELI,2013,Winter     ,Wheat,131,262,0.000150516
 Goa,NORTH GOA,2013,Kharif     ,Groundnut,394,951,0.000546337
 Goa,NORTH GOA,2013,Kharif     ,Other Kharif pulses,156,129,7.41E-05
 Goa,NORTH GOA,2013,Kharif     ,Ragi,2,2.69,1.55E-06
@@ -5395,387 +5395,387 @@ Nagaland,ZUNHEBOTO,2013,Rabi       ,Lentil,250,200,0.000114897
 Nagaland,ZUNHEBOTO,2013,Rabi       ,Peas & beans (Pulses),600,640,0.000367671
 Nagaland,ZUNHEBOTO,2013,Rabi       ,Rajmash Kholar,430,530,0.000304478
 Nagaland,ZUNHEBOTO,2013,Rabi       ,Wheat,280,510,0.000292988
-Orissa,ANUGUL,2013,Autumn     ,Groundnut,1342,1512.4,0.000868854
-Orissa,ANUGUL,2013,Autumn     ,Maize,482,490.8,0.000281958
-Orissa,ANUGUL,2013,Autumn     ,Moong(Green Gram),957,205.8,0.000118229
-Orissa,ANUGUL,2013,Autumn     ,Sesamum,344,82.9,4.76E-05
-Orissa,ANUGUL,2013,Autumn     ,Urad,1315,352.4,0.000202449
-Orissa,ANUGUL,2013,Summer     ,Groundnut,181,242.9,0.000139543
-Orissa,ANUGUL,2013,Summer     ,Maize,26,43.4,2.49E-05
-Orissa,ANUGUL,2013,Summer     ,Moong(Green Gram),306,107.7,6.19E-05
-Orissa,ANUGUL,2013,Summer     ,Sesamum,104,29.2,1.68E-05
-Orissa,ANUGUL,2013,Summer     ,Urad,53,22.3,1.28E-05
-Orissa,ANUGUL,2013,Winter     ,Groundnut,371,527.6,0.000303099
-Orissa,ANUGUL,2013,Winter     ,Horse-gram,2157,722.6,0.000415124
-Orissa,ANUGUL,2013,Winter     ,Maize,38,68.6,3.94E-05
-Orissa,ANUGUL,2013,Winter     ,Moong(Green Gram),803,210.4,0.000120872
-Orissa,ANUGUL,2013,Winter     ,Sesamum,1213,241.4,0.000138681
-Orissa,ANUGUL,2013,Winter     ,Urad,1154,326.6,0.000187627
-Orissa,BALANGIR,2013,Autumn     ,Groundnut,4478,5597.5,0.003215689
-Orissa,BALANGIR,2013,Autumn     ,Maize,1360,2711.4,0.001557663
-Orissa,BALANGIR,2013,Autumn     ,Moong(Green Gram),5993,2115.5,0.001215327
-Orissa,BALANGIR,2013,Autumn     ,Ragi,248,244.5,0.000140462
-Orissa,BALANGIR,2013,Autumn     ,Sesamum,1420,325.2,0.000186823
-Orissa,BALANGIR,2013,Autumn     ,Urad,6759,2426.5,0.001393992
-Orissa,BALANGIR,2013,Summer     ,Groundnut,22,49.1,2.82E-05
-Orissa,BALANGIR,2013,Summer     ,Maize,40,117.2,6.73E-05
-Orissa,BALANGIR,2013,Summer     ,Moong(Green Gram),1864,1045.7,0.000600741
-Orissa,BALANGIR,2013,Summer     ,Sesamum,16,3.3,1.90E-06
-Orissa,BALANGIR,2013,Summer     ,Urad,479,357.8,0.000205551
-Orissa,BALANGIR,2013,Summer     ,Wheat,6,14.5,8.33E-06
-Orissa,BALANGIR,2013,Winter     ,Groundnut,12,12.3,7.07E-06
-Orissa,BALANGIR,2013,Winter     ,Horse-gram,6782,2841.7,0.001632519
-Orissa,BALANGIR,2013,Winter     ,Moong(Green Gram),5845,2302.9,0.001322985
-Orissa,BALANGIR,2013,Winter     ,Sesamum,1518,283.9,0.000163097
-Orissa,BALANGIR,2013,Winter     ,Urad,678,368.2,0.000211526
-Orissa,BALESHWAR,2013,Autumn     ,Urad,17,2.6,1.49E-06
-Orissa,BALESHWAR,2013,Summer     ,Groundnut,1500,2119.5,0.001217625
-Orissa,BALESHWAR,2013,Summer     ,Moong(Green Gram),1723,771.9,0.000443446
-Orissa,BALESHWAR,2013,Summer     ,Sesamum,359,119.2,6.85E-05
-Orissa,BALESHWAR,2013,Summer     ,Urad,174,80.4,4.62E-05
-Orissa,BALESHWAR,2013,Summer     ,Wheat,60,78.5,4.51E-05
-Orissa,BALESHWAR,2013,Winter     ,Horse-gram,1,0.2,1.15E-07
-Orissa,BALESHWAR,2013,Winter     ,Urad,16,7.6,4.37E-06
-Orissa,BARGARH,2013,Autumn     ,Groundnut,13134,14605,0.008390378
-Orissa,BARGARH,2013,Autumn     ,Maize,100,171.4,9.85E-05
-Orissa,BARGARH,2013,Autumn     ,Moong(Green Gram),15615,5090.5,0.002924425
-Orissa,BARGARH,2013,Autumn     ,Sesamum,10,3.4,1.95E-06
-Orissa,BARGARH,2013,Autumn     ,Urad,9556,3268.2,0.001877537
-Orissa,BARGARH,2013,Summer     ,Groundnut,1512,2218.1,0.001274269
-Orissa,BARGARH,2013,Summer     ,Maize,9,17.6,1.01E-05
-Orissa,BARGARH,2013,Summer     ,Moong(Green Gram),824,315.6,0.000181308
-Orissa,BARGARH,2013,Summer     ,Sesamum,94,36.7,2.11E-05
-Orissa,BARGARH,2013,Summer     ,Urad,23,9.2,5.29E-06
-Orissa,BARGARH,2013,Summer     ,Wheat,4,5.2,2.99E-06
-Orissa,BARGARH,2013,Winter     ,Horse-gram,1019,321,0.00018441
-Orissa,BARGARH,2013,Winter     ,Moong(Green Gram),84,23.8,1.37E-05
-Orissa,BARGARH,2013,Winter     ,Sesamum,1098,221.8,0.000127421
-Orissa,BARGARH,2013,Winter     ,Urad,13,4.7,2.70E-06
-Orissa,BHADRAK,2013,Autumn     ,Urad,1,0.5,2.87E-07
-Orissa,BHADRAK,2013,Summer     ,Groundnut,10,10.3,5.92E-06
-Orissa,BHADRAK,2013,Summer     ,Horse-gram,1,0.2,1.15E-07
-Orissa,BHADRAK,2013,Summer     ,Maize,3,4.2,2.41E-06
-Orissa,BHADRAK,2013,Summer     ,Moong(Green Gram),3007,1692.9,0.000972549
-Orissa,BHADRAK,2013,Summer     ,Sesamum,90,26.2,1.51E-05
-Orissa,BHADRAK,2013,Summer     ,Urad,99,47.8,2.75E-05
-Orissa,BHADRAK,2013,Summer     ,Wheat,20,19.4,1.11E-05
-Orissa,BHADRAK,2013,Winter     ,Moong(Green Gram),33,22.5,1.29E-05
-Orissa,BHADRAK,2013,Winter     ,Urad,1069,568.7,0.000326711
-Orissa,BOUDH,2013,Autumn     ,Groundnut,36,22.1,1.27E-05
-Orissa,BOUDH,2013,Autumn     ,Maize,184,143.5,8.24E-05
-Orissa,BOUDH,2013,Autumn     ,Moong(Green Gram),446,85.2,4.89E-05
-Orissa,BOUDH,2013,Autumn     ,Ragi,1,0.2,1.15E-07
-Orissa,BOUDH,2013,Autumn     ,Sesamum,1,0.1,5.74E-08
-Orissa,BOUDH,2013,Autumn     ,Urad,4,0.5,2.87E-07
-Orissa,BOUDH,2013,Summer     ,Groundnut,6,3.9,2.24E-06
-Orissa,BOUDH,2013,Summer     ,Maize,1,1.5,8.62E-07
-Orissa,BOUDH,2013,Summer     ,Moong(Green Gram),717,153.4,8.81E-05
-Orissa,BOUDH,2013,Summer     ,Sesamum,6,1.6,9.19E-07
-Orissa,BOUDH,2013,Summer     ,Wheat,29,55.3,3.18E-05
-Orissa,BOUDH,2013,Winter     ,Groundnut,10,7,4.02E-06
-Orissa,BOUDH,2013,Winter     ,Horse-gram,1707,409.7,0.000235367
-Orissa,BOUDH,2013,Winter     ,Moong(Green Gram),1188,264.9,0.000152182
-Orissa,BOUDH,2013,Winter     ,Sesamum,344,55.4,3.18E-05
-Orissa,BOUDH,2013,Winter     ,Urad,334,71.1,4.08E-05
-Orissa,CUTTACK,2013,Autumn     ,Groundnut,20,21.2,1.22E-05
-Orissa,CUTTACK,2013,Summer     ,Groundnut,1458,1931.9,0.001109851
-Orissa,CUTTACK,2013,Summer     ,Horse-gram,18,9.2,5.29E-06
-Orissa,CUTTACK,2013,Summer     ,Moong(Green Gram),20665,7439.4,0.004273836
-Orissa,CUTTACK,2013,Summer     ,Sesamum,5,1.1,6.32E-07
-Orissa,CUTTACK,2013,Summer     ,Urad,300,132,7.58E-05
-Orissa,CUTTACK,2013,Winter     ,Horse-gram,1008,370.9,0.000213077
-Orissa,CUTTACK,2013,Winter     ,Maize,5,8.1,4.65E-06
-Orissa,CUTTACK,2013,Winter     ,Moong(Green Gram),50,17,9.77E-06
-Orissa,CUTTACK,2013,Winter     ,Urad,3021,1160.1,0.000666462
-Orissa,DEOGARH,2013,Autumn     ,Groundnut,22,41.6,2.39E-05
-Orissa,DEOGARH,2013,Autumn     ,Maize,37,53.5,3.07E-05
-Orissa,DEOGARH,2013,Autumn     ,Moong(Green Gram),43,11.4,6.55E-06
-Orissa,DEOGARH,2013,Autumn     ,Urad,71,22.3,1.28E-05
-Orissa,DEOGARH,2013,Summer     ,Groundnut,64,106.9,6.14E-05
-Orissa,DEOGARH,2013,Summer     ,Maize,7,10.6,6.09E-06
-Orissa,DEOGARH,2013,Summer     ,Moong(Green Gram),110,36.7,2.11E-05
-Orissa,DEOGARH,2013,Summer     ,Sesamum,94,25.6,1.47E-05
-Orissa,DEOGARH,2013,Summer     ,Wheat,8,15.6,8.96E-06
-Orissa,DEOGARH,2013,Winter     ,Horse-gram,241,82.2,4.72E-05
-Orissa,DEOGARH,2013,Winter     ,Moong(Green Gram),45,12.9,7.41E-06
-Orissa,DEOGARH,2013,Winter     ,Sesamum,380,93.5,5.37E-05
-Orissa,DEOGARH,2013,Winter     ,Urad,5,1.5,8.62E-07
-Orissa,DHENKANAL,2013,Autumn     ,Groundnut,276,356.3,0.00020469
-Orissa,DHENKANAL,2013,Autumn     ,Maize,35,43.8,2.52E-05
-Orissa,DHENKANAL,2013,Autumn     ,Moong(Green Gram),15,2.2,1.26E-06
-Orissa,DHENKANAL,2013,Autumn     ,Ragi,1,0.4,2.30E-07
-Orissa,DHENKANAL,2013,Autumn     ,Sesamum,5,2.2,1.26E-06
-Orissa,DHENKANAL,2013,Autumn     ,Urad,10,2.8,1.61E-06
-Orissa,DHENKANAL,2013,Summer     ,Groundnut,1470,3494.2,0.002007371
-Orissa,DHENKANAL,2013,Summer     ,Maize,1,1.2,6.89E-07
-Orissa,DHENKANAL,2013,Summer     ,Moong(Green Gram),1218,562.7,0.000323264
-Orissa,DHENKANAL,2013,Summer     ,Sesamum,13,5.3,3.04E-06
-Orissa,DHENKANAL,2013,Summer     ,Urad,12,3.1,1.78E-06
-Orissa,DHENKANAL,2013,Summer     ,Wheat,3,7.4,4.25E-06
-Orissa,DHENKANAL,2013,Winter     ,Groundnut,52,98.5,5.66E-05
-Orissa,DHENKANAL,2013,Winter     ,Horse-gram,522,216.6,0.000124434
-Orissa,DHENKANAL,2013,Winter     ,Moong(Green Gram),513,190.8,0.000109612
-Orissa,DHENKANAL,2013,Winter     ,Sesamum,90,19,1.09E-05
-Orissa,DHENKANAL,2013,Winter     ,Urad,2931,1254.5,0.000720694
-Orissa,GAJAPATI,2013,Autumn     ,Groundnut,199,198.4,0.000113978
-Orissa,GAJAPATI,2013,Autumn     ,Maize,11836,13520.5,0.007767348
-Orissa,GAJAPATI,2013,Autumn     ,Ragi,1060,813,0.000467058
-Orissa,GAJAPATI,2013,Summer     ,Groundnut,313,333.7,0.000191706
-Orissa,GAJAPATI,2013,Summer     ,Moong(Green Gram),1,0.1,5.74E-08
-Orissa,GAJAPATI,2013,Summer     ,Ragi,7,5.2,2.99E-06
-Orissa,GAJAPATI,2013,Summer     ,Sesamum,1013,207.7,0.000119321
-Orissa,GAJAPATI,2013,Winter     ,Horse-gram,537,107.4,6.17E-05
-Orissa,GAJAPATI,2013,Winter     ,Moong(Green Gram),2370,540.4,0.000310453
-Orissa,GAJAPATI,2013,Winter     ,Ragi,1,0.8,4.60E-07
-Orissa,GAJAPATI,2013,Winter     ,Sesamum,12,1.4,8.04E-07
-Orissa,GAJAPATI,2013,Winter     ,Urad,2842,525.8,0.000302065
-Orissa,GANJAM,2013,Autumn     ,Groundnut,960,673.9,0.000387147
-Orissa,GANJAM,2013,Autumn     ,Maize,717,1284.3,0.000737813
-Orissa,GANJAM,2013,Autumn     ,Moong(Green Gram),3,0.1,5.74E-08
-Orissa,GANJAM,2013,Autumn     ,Ragi,1761,1354.2,0.00077797
-Orissa,GANJAM,2013,Autumn     ,Urad,45,5.1,2.93E-06
-Orissa,GANJAM,2013,Summer     ,Groundnut,1790,2665.3,0.001531179
-Orissa,GANJAM,2013,Summer     ,Maize,34,67.3,3.87E-05
-Orissa,GANJAM,2013,Summer     ,Moong(Green Gram),6,2.6,1.49E-06
-Orissa,GANJAM,2013,Summer     ,Ragi,36,38.5,2.21E-05
-Orissa,GANJAM,2013,Summer     ,Sesamum,1806,310.6,0.000178436
-Orissa,GANJAM,2013,Winter     ,Groundnut,37,66.2,3.80E-05
-Orissa,GANJAM,2013,Winter     ,Horse-gram,943,253.7,0.000145747
-Orissa,GANJAM,2013,Winter     ,Maize,9,13.9,7.99E-06
-Orissa,GANJAM,2013,Winter     ,Moong(Green Gram),39868,8970.3,0.005153318
-Orissa,GANJAM,2013,Winter     ,Ragi,6,9,5.17E-06
-Orissa,GANJAM,2013,Winter     ,Sesamum,32,3.6,2.07E-06
-Orissa,GANJAM,2013,Winter     ,Urad,4833,1087.4,0.000624697
-Orissa,JAGATSINGHAPUR,2013,Summer     ,Groundnut,954,1755.4,0.001008454
-Orissa,JAGATSINGHAPUR,2013,Summer     ,Horse-gram,3,1.7,9.77E-07
-Orissa,JAGATSINGHAPUR,2013,Summer     ,Maize,4,7.5,4.31E-06
-Orissa,JAGATSINGHAPUR,2013,Summer     ,Moong(Green Gram),33155,17804.2,0.010228276
-Orissa,JAGATSINGHAPUR,2013,Summer     ,Sesamum,4,2,1.15E-06
-Orissa,JAGATSINGHAPUR,2013,Summer     ,Urad,311,121.6,6.99E-05
-Orissa,JAGATSINGHAPUR,2013,Winter     ,Horse-gram,810,342.6,0.000196819
-Orissa,JAGATSINGHAPUR,2013,Winter     ,Maize,7,11.2,6.43E-06
-Orissa,JAGATSINGHAPUR,2013,Winter     ,Urad,1767,503.6,0.000289312
-Orissa,JAJAPUR,2013,Autumn     ,Groundnut,89,115.7,6.65E-05
-Orissa,JAJAPUR,2013,Autumn     ,Maize,35,28.1,1.61E-05
-Orissa,JAJAPUR,2013,Summer     ,Groundnut,10503,19147,0.010999697
-Orissa,JAJAPUR,2013,Summer     ,Moong(Green Gram),9431,2744.4,0.001576621
-Orissa,JAJAPUR,2013,Summer     ,Urad,38,13.7,7.87E-06
-Orissa,JAJAPUR,2013,Summer     ,Wheat,13,17.1,9.82E-06
-Orissa,JAJAPUR,2013,Winter     ,Horse-gram,427,102.1,5.87E-05
-Orissa,JAJAPUR,2013,Winter     ,Moong(Green Gram),30,3.3,1.90E-06
-Orissa,JAJAPUR,2013,Winter     ,Urad,3612,552.6,0.000317461
-Orissa,JHARSUGUDA,2013,Autumn     ,Groundnut,90,127.7,7.34E-05
-Orissa,JHARSUGUDA,2013,Autumn     ,Maize,49,104.7,6.01E-05
-Orissa,JHARSUGUDA,2013,Autumn     ,Urad,3,0.4,2.30E-07
-Orissa,JHARSUGUDA,2013,Summer     ,Groundnut,43,84.3,4.84E-05
-Orissa,JHARSUGUDA,2013,Summer     ,Maize,2,6,3.45E-06
-Orissa,JHARSUGUDA,2013,Summer     ,Moong(Green Gram),261,97.4,5.60E-05
-Orissa,JHARSUGUDA,2013,Summer     ,Sesamum,6,1.5,8.62E-07
-Orissa,JHARSUGUDA,2013,Summer     ,Wheat,17,25.6,1.47E-05
-Orissa,JHARSUGUDA,2013,Winter     ,Horse-gram,116,39.6,2.27E-05
-Orissa,JHARSUGUDA,2013,Winter     ,Sesamum,347,117.6,6.76E-05
-Orissa,KALAHANDI,2013,Autumn     ,Groundnut,656,560.9,0.00032223
-Orissa,KALAHANDI,2013,Autumn     ,Maize,3818,5836.1,0.003352762
-Orissa,KALAHANDI,2013,Autumn     ,Moong(Green Gram),1,0.3,1.72E-07
-Orissa,KALAHANDI,2013,Autumn     ,Ragi,383,183.8,0.000105591
-Orissa,KALAHANDI,2013,Autumn     ,Urad,2,0.7,4.02E-07
-Orissa,KALAHANDI,2013,Summer     ,Groundnut,1245,1479.1,0.000849723
-Orissa,KALAHANDI,2013,Summer     ,Maize,9,13.1,7.53E-06
-Orissa,KALAHANDI,2013,Summer     ,Moong(Green Gram),7221,2736.8,0.001572255
-Orissa,KALAHANDI,2013,Summer     ,Sesamum,1,0.1,5.74E-08
-Orissa,KALAHANDI,2013,Summer     ,Urad,19,3.3,1.90E-06
-Orissa,KALAHANDI,2013,Winter     ,Groundnut,309,314.3,0.000180561
-Orissa,KALAHANDI,2013,Winter     ,Horse-gram,4862,1609.3,0.000924521
-Orissa,KALAHANDI,2013,Winter     ,Moong(Green Gram),4898,1714.3,0.000984843
-Orissa,KALAHANDI,2013,Winter     ,Ragi,766,402.9,0.000231461
-Orissa,KALAHANDI,2013,Winter     ,Sesamum,194,25.2,1.45E-05
-Orissa,KALAHANDI,2013,Winter     ,Urad,4267,1531.9,0.000880056
-Orissa,KANDHAMAL,2013,Autumn     ,Groundnut,372,266.7,0.000153216
-Orissa,KANDHAMAL,2013,Autumn     ,Maize,2040,1969.1,0.001131222
-Orissa,KANDHAMAL,2013,Autumn     ,Ragi,18,11.8,6.78E-06
-Orissa,KANDHAMAL,2013,Autumn     ,Urad,39,3.3,1.90E-06
-Orissa,KANDHAMAL,2013,Summer     ,Maize,1,1.8,1.03E-06
-Orissa,KANDHAMAL,2013,Winter     ,Groundnut,8,12.2,7.01E-06
-Orissa,KANDHAMAL,2013,Winter     ,Horse-gram,1658,419.5,0.000240997
-Orissa,KANDHAMAL,2013,Winter     ,Maize,1,1.4,8.04E-07
-Orissa,KANDHAMAL,2013,Winter     ,Moong(Green Gram),152,28.1,1.61E-05
-Orissa,KANDHAMAL,2013,Winter     ,Sesamum,29,5.7,3.27E-06
-Orissa,KANDHAMAL,2013,Winter     ,Urad,290,59.7,3.43E-05
-Orissa,KENDRAPARA,2013,Summer     ,Groundnut,1985,3297.1,0.00189414
-Orissa,KENDRAPARA,2013,Summer     ,Moong(Green Gram),20701,8073.4,0.004638061
-Orissa,KENDRAPARA,2013,Summer     ,Sesamum,16,7.5,4.31E-06
-Orissa,KENDRAPARA,2013,Summer     ,Urad,965,398.5,0.000228933
-Orissa,KENDRAPARA,2013,Summer     ,Wheat,3,6.3,3.62E-06
-Orissa,KENDRAPARA,2013,Winter     ,Horse-gram,263,83.4,4.79E-05
-Orissa,KENDRAPARA,2013,Winter     ,Urad,5796,1512.8,0.000869083
-Orissa,KENDUJHAR,2013,Autumn     ,Groundnut,34,31.3,1.80E-05
-Orissa,KENDUJHAR,2013,Autumn     ,Maize,1425,2550.1,0.001464999
-Orissa,KENDUJHAR,2013,Autumn     ,Sesamum,56,13.2,7.58E-06
-Orissa,KENDUJHAR,2013,Autumn     ,Urad,597,174.3,0.000100133
-Orissa,KENDUJHAR,2013,Summer     ,Groundnut,78,76.8,4.41E-05
-Orissa,KENDUJHAR,2013,Summer     ,Maize,4,8.6,4.94E-06
-Orissa,KENDUJHAR,2013,Summer     ,Moong(Green Gram),297,68.6,3.94E-05
-Orissa,KENDUJHAR,2013,Summer     ,Sesamum,22,9.8,5.63E-06
-Orissa,KENDUJHAR,2013,Summer     ,Wheat,58,92.7,5.33E-05
-Orissa,KENDUJHAR,2013,Winter     ,Groundnut,63,74.2,4.26E-05
-Orissa,KENDUJHAR,2013,Winter     ,Horse-gram,1226,353.1,0.000202851
-Orissa,KENDUJHAR,2013,Winter     ,Moong(Green Gram),132,31.5,1.81E-05
-Orissa,KENDUJHAR,2013,Winter     ,Sesamum,10,3.1,1.78E-06
-Orissa,KENDUJHAR,2013,Winter     ,Urad,232,56.8,3.26E-05
-Orissa,KHORDHA,2013,Autumn     ,Maize,23,62.7,3.60E-05
-Orissa,KHORDHA,2013,Summer     ,Groundnut,414,556.4,0.000319644
-Orissa,KHORDHA,2013,Summer     ,Horse-gram,40,9.7,5.57E-06
-Orissa,KHORDHA,2013,Summer     ,Maize,2,4.4,2.53E-06
-Orissa,KHORDHA,2013,Summer     ,Moong(Green Gram),12047,3614.1,0.002076252
-Orissa,KHORDHA,2013,Summer     ,Ragi,5,3.6,2.07E-06
-Orissa,KHORDHA,2013,Summer     ,Sesamum,175,82.6,4.75E-05
-Orissa,KHORDHA,2013,Summer     ,Urad,154,47.7,2.74E-05
-Orissa,KHORDHA,2013,Winter     ,Horse-gram,453,131.8,7.57E-05
-Orissa,KHORDHA,2013,Winter     ,Moong(Green Gram),678,164.1,9.43E-05
-Orissa,KHORDHA,2013,Winter     ,Sesamum,10,1.5,8.62E-07
-Orissa,KHORDHA,2013,Winter     ,Urad,1346,280,0.000160856
-Orissa,KORAPUT,2013,Autumn     ,Groundnut,33,36.9,2.12E-05
-Orissa,KORAPUT,2013,Autumn     ,Maize,4912,9699.4,0.005572176
-Orissa,KORAPUT,2013,Autumn     ,Ragi,5963,4979.1,0.002860427
-Orissa,KORAPUT,2013,Autumn     ,Urad,1,0.2,1.15E-07
-Orissa,KORAPUT,2013,Summer     ,Groundnut,193,250.3,0.000143794
-Orissa,KORAPUT,2013,Summer     ,Maize,456,1038.3,0.00059649
-Orissa,KORAPUT,2013,Summer     ,Moong(Green Gram),582,590.1,0.000339005
-Orissa,KORAPUT,2013,Summer     ,Ragi,68,51.2,2.94E-05
-Orissa,KORAPUT,2013,Summer     ,Wheat,1,3.5,2.01E-06
-Orissa,KORAPUT,2013,Winter     ,Groundnut,197,275.2,0.000158099
-Orissa,KORAPUT,2013,Winter     ,Horse-gram,2829,1284.4,0.000737871
-Orissa,KORAPUT,2013,Winter     ,Maize,11,38.6,2.22E-05
-Orissa,KORAPUT,2013,Winter     ,Moong(Green Gram),45,20.9,1.20E-05
-Orissa,KORAPUT,2013,Winter     ,Ragi,27955,25131.5,0.014437713
-Orissa,KORAPUT,2013,Winter     ,Sesamum,235,99.4,5.71E-05
-Orissa,KORAPUT,2013,Winter     ,Urad,2110,732.2,0.000420639
-Orissa,MALKANGIRI,2013,Autumn     ,Maize,876,983.1,0.000564778
-Orissa,MALKANGIRI,2013,Autumn     ,Ragi,775,393.7,0.000226175
-Orissa,MALKANGIRI,2013,Summer     ,Groundnut,3360,7983.4,0.004586357
-Orissa,MALKANGIRI,2013,Summer     ,Maize,113,231.3,0.000132879
-Orissa,MALKANGIRI,2013,Summer     ,Moong(Green Gram),15,3.7,2.13E-06
-Orissa,MALKANGIRI,2013,Winter     ,Groundnut,315,679.8,0.000390536
-Orissa,MALKANGIRI,2013,Winter     ,Horse-gram,1594,388.9,0.000223418
-Orissa,MALKANGIRI,2013,Winter     ,Maize,42,64.5,3.71E-05
-Orissa,MALKANGIRI,2013,Winter     ,Moong(Green Gram),97,24.9,1.43E-05
-Orissa,MALKANGIRI,2013,Winter     ,Ragi,4072,2781.2,0.001597762
-Orissa,MALKANGIRI,2013,Winter     ,Sesamum,6738,1428.5,0.000820654
-Orissa,MALKANGIRI,2013,Winter     ,Urad,1371,324.9,0.000186651
-Orissa,MAYURBHANJ,2013,Autumn     ,Groundnut,23,13.7,7.87E-06
-Orissa,MAYURBHANJ,2013,Autumn     ,Maize,1548,2649.4,0.001522045
-Orissa,MAYURBHANJ,2013,Autumn     ,Sesamum,117,34.7,1.99E-05
-Orissa,MAYURBHANJ,2013,Autumn     ,Urad,697,174.3,0.000100133
-Orissa,MAYURBHANJ,2013,Summer     ,Groundnut,2208,3062.5,0.001759366
-Orissa,MAYURBHANJ,2013,Summer     ,Maize,80,161.9,9.30E-05
-Orissa,MAYURBHANJ,2013,Summer     ,Moong(Green Gram),863,446.2,0.000256336
-Orissa,MAYURBHANJ,2013,Summer     ,Sesamum,175,100.8,5.79E-05
-Orissa,MAYURBHANJ,2013,Summer     ,Urad,54,23.6,1.36E-05
-Orissa,MAYURBHANJ,2013,Summer     ,Wheat,129,181.5,0.000104269
-Orissa,MAYURBHANJ,2013,Winter     ,Groundnut,33,22.7,1.30E-05
-Orissa,MAYURBHANJ,2013,Winter     ,Horse-gram,505,134.8,7.74E-05
-Orissa,MAYURBHANJ,2013,Winter     ,Maize,22,44.4,2.55E-05
-Orissa,MAYURBHANJ,2013,Winter     ,Moong(Green Gram),28,6.6,3.79E-06
-Orissa,MAYURBHANJ,2013,Winter     ,Sesamum,33,10.9,6.26E-06
-Orissa,MAYURBHANJ,2013,Winter     ,Urad,19,4.8,2.76E-06
-Orissa,NABARANGPUR,2013,Autumn     ,Groundnut,181,115.5,6.64E-05
-Orissa,NABARANGPUR,2013,Autumn     ,Maize,56139,202549.5,0.116361995
-Orissa,NABARANGPUR,2013,Autumn     ,Ragi,1095,557.4,0.000320219
-Orissa,NABARANGPUR,2013,Summer     ,Groundnut,32,18.6,1.07E-05
-Orissa,NABARANGPUR,2013,Summer     ,Maize,2614,8438,0.004847519
-Orissa,NABARANGPUR,2013,Summer     ,Moong(Green Gram),730,264.3,0.000151837
-Orissa,NABARANGPUR,2013,Summer     ,Ragi,16,7.3,4.19E-06
-Orissa,NABARANGPUR,2013,Summer     ,Wheat,9,5.9,3.39E-06
-Orissa,NABARANGPUR,2013,Winter     ,Horse-gram,1644,905.8,0.00052037
-Orissa,NABARANGPUR,2013,Winter     ,Urad,2610,1216.3,0.000698748
-Orissa,NAYAGARH,2013,Autumn     ,Groundnut,1,0.6,3.45E-07
-Orissa,NAYAGARH,2013,Autumn     ,Maize,299,468.1,0.000268917
-Orissa,NAYAGARH,2013,Autumn     ,Ragi,27,13.3,7.64E-06
-Orissa,NAYAGARH,2013,Summer     ,Groundnut,1,0.5,2.87E-07
-Orissa,NAYAGARH,2013,Summer     ,Maize,3,3.2,1.84E-06
-Orissa,NAYAGARH,2013,Summer     ,Sesamum,19,4.3,2.47E-06
-Orissa,NAYAGARH,2013,Summer     ,Urad,51,15.5,8.90E-06
-Orissa,NAYAGARH,2013,Winter     ,Groundnut,41,44.6,2.56E-05
-Orissa,NAYAGARH,2013,Winter     ,Horse-gram,1377,399.3,0.000229393
-Orissa,NAYAGARH,2013,Winter     ,Moong(Green Gram),31814,9162.4,0.005263677
-Orissa,NAYAGARH,2013,Winter     ,Sesamum,79,12.8,7.35E-06
-Orissa,NAYAGARH,2013,Winter     ,Urad,5312,1529.9,0.000878907
-Orissa,NUAPADA,2013,Autumn     ,Groundnut,1205,1073.7,0.000616826
-Orissa,NUAPADA,2013,Autumn     ,Maize,564,686.6,0.000394443
-Orissa,NUAPADA,2013,Autumn     ,Moong(Green Gram),792,113.3,6.51E-05
-Orissa,NUAPADA,2013,Autumn     ,Ragi,332,171.3,9.84E-05
-Orissa,NUAPADA,2013,Autumn     ,Sesamum,712,85.4,4.91E-05
-Orissa,NUAPADA,2013,Autumn     ,Urad,6880,1417.3,0.00081422
-Orissa,NUAPADA,2013,Summer     ,Groundnut,211,397.1,0.000228129
-Orissa,NUAPADA,2013,Summer     ,Maize,1,1.2,6.89E-07
-Orissa,NUAPADA,2013,Summer     ,Moong(Green Gram),1759,541.8,0.000311257
-Orissa,NUAPADA,2013,Summer     ,Wheat,2,1.6,9.19E-07
-Orissa,NUAPADA,2013,Winter     ,Groundnut,185,146.3,8.40E-05
-Orissa,NUAPADA,2013,Winter     ,Horse-gram,1401,381.1,0.000218937
-Orissa,NUAPADA,2013,Winter     ,Moong(Green Gram),348,153.1,8.80E-05
-Orissa,NUAPADA,2013,Winter     ,Sesamum,179,19.3,1.11E-05
-Orissa,NUAPADA,2013,Winter     ,Urad,165,45.9,2.64E-05
-Orissa,PURI,2013,Summer     ,Groundnut,3581,5436,0.00312291
-Orissa,PURI,2013,Summer     ,Moong(Green Gram),18498,6881.3,0.003953215
-Orissa,PURI,2013,Summer     ,Ragi,20,12,6.89E-06
-Orissa,PURI,2013,Summer     ,Sesamum,315,100.5,5.77E-05
-Orissa,PURI,2013,Summer     ,Urad,273,64.7,3.72E-05
-Orissa,PURI,2013,Winter     ,Horse-gram,1283,423.4,0.000243238
-Orissa,PURI,2013,Winter     ,Moong(Green Gram),22,8.3,4.77E-06
-Orissa,PURI,2013,Winter     ,Urad,4714,1744.2,0.00100202
-Orissa,RAYAGADA,2013,Autumn     ,Groundnut,245,196.7,0.000113002
-Orissa,RAYAGADA,2013,Autumn     ,Maize,3912,5353.2,0.003075342
-Orissa,RAYAGADA,2013,Autumn     ,Ragi,3995,2764.5,0.001588168
-Orissa,RAYAGADA,2013,Summer     ,Groundnut,93,131.5,7.55E-05
-Orissa,RAYAGADA,2013,Summer     ,Maize,179,247.9,0.000142415
-Orissa,RAYAGADA,2013,Summer     ,Ragi,77,73.3,4.21E-05
-Orissa,RAYAGADA,2013,Summer     ,Sesamum,243,109.1,6.27E-05
-Orissa,RAYAGADA,2013,Winter     ,Groundnut,36,30,1.72E-05
-Orissa,RAYAGADA,2013,Winter     ,Horse-gram,3056,1133.8,0.000651353
-Orissa,RAYAGADA,2013,Winter     ,Maize,143,169.1,9.71E-05
-Orissa,RAYAGADA,2013,Winter     ,Moong(Green Gram),70,19.6,1.13E-05
-Orissa,RAYAGADA,2013,Winter     ,Ragi,7837,5775.9,0.003318178
-Orissa,RAYAGADA,2013,Winter     ,Sesamum,2040,630.4,0.000362156
-Orissa,RAYAGADA,2013,Winter     ,Urad,3355,1070.2,0.000614816
-Orissa,SAMBALPUR,2013,Autumn     ,Groundnut,110,91.4,5.25E-05
-Orissa,SAMBALPUR,2013,Autumn     ,Maize,241,264.1,0.000151722
-Orissa,SAMBALPUR,2013,Autumn     ,Moong(Green Gram),52,23.5,1.35E-05
-Orissa,SAMBALPUR,2013,Autumn     ,Ragi,42,27.8,1.60E-05
-Orissa,SAMBALPUR,2013,Autumn     ,Urad,59,19.5,1.12E-05
-Orissa,SAMBALPUR,2013,Summer     ,Groundnut,33,36,2.07E-05
-Orissa,SAMBALPUR,2013,Summer     ,Moong(Green Gram),203,98,5.63E-05
-Orissa,SAMBALPUR,2013,Summer     ,Sesamum,32,16.5,9.48E-06
-Orissa,SAMBALPUR,2013,Summer     ,Urad,3,0.9,5.17E-07
-Orissa,SAMBALPUR,2013,Summer     ,Wheat,31,26,1.49E-05
-Orissa,SAMBALPUR,2013,Winter     ,Horse-gram,395,178.1,0.000102316
-Orissa,SAMBALPUR,2013,Winter     ,Moong(Green Gram),49,19.8,1.14E-05
-Orissa,SAMBALPUR,2013,Winter     ,Sesamum,480,200.6,0.000115242
-Orissa,SAMBALPUR,2013,Winter     ,Urad,92,44.7,2.57E-05
-Orissa,SONEPUR,2013,Autumn     ,Groundnut,3,0.9,5.17E-07
-Orissa,SONEPUR,2013,Autumn     ,Maize,17,16.7,9.59E-06
-Orissa,SONEPUR,2013,Autumn     ,Moong(Green Gram),168,68.4,3.93E-05
-Orissa,SONEPUR,2013,Summer     ,Groundnut,590,837.8,0.000481305
-Orissa,SONEPUR,2013,Summer     ,Moong(Green Gram),907,409.1,0.000235023
-Orissa,SONEPUR,2013,Summer     ,Sesamum,23,6.4,3.68E-06
-Orissa,SONEPUR,2013,Summer     ,Wheat,34,73.3,4.21E-05
-Orissa,SONEPUR,2013,Winter     ,Horse-gram,789,265.9,0.000152756
-Orissa,SONEPUR,2013,Winter     ,Moong(Green Gram),1419,492.4,0.000282877
-Orissa,SONEPUR,2013,Winter     ,Sesamum,5,1.2,6.89E-07
-Orissa,SONEPUR,2013,Winter     ,Urad,37,7.4,4.25E-06
-Orissa,SUNDARGARH,2013,Autumn     ,Groundnut,652,749.8,0.00043075
-Orissa,SUNDARGARH,2013,Autumn     ,Maize,612,1136.8,0.000653076
-Orissa,SUNDARGARH,2013,Autumn     ,Moong(Green Gram),50,12.3,7.07E-06
-Orissa,SUNDARGARH,2013,Autumn     ,Ragi,67,32.7,1.88E-05
-Orissa,SUNDARGARH,2013,Autumn     ,Sesamum,72,17.5,1.01E-05
-Orissa,SUNDARGARH,2013,Autumn     ,Urad,1531,427.1,0.000245363
-Orissa,SUNDARGARH,2013,Summer     ,Groundnut,213,320.4,0.000184066
-Orissa,SUNDARGARH,2013,Summer     ,Maize,2,4.1,2.36E-06
-Orissa,SUNDARGARH,2013,Summer     ,Moong(Green Gram),126,41.6,2.39E-05
-Orissa,SUNDARGARH,2013,Summer     ,Wheat,251,438.2,0.00025174
-Orissa,SUNDARGARH,2013,Winter     ,Horse-gram,2433,1126.5,0.000647159
-Orissa,SUNDARGARH,2013,Winter     ,Moong(Green Gram),37,15.8,9.08E-06
-Orissa,SUNDARGARH,2013,Winter     ,Sesamum,1105,361.3,0.000207562
-Orissa,SUNDARGARH,2013,Winter     ,Urad,219,99.9,5.74E-05
+Odisha,ANUGUL,2013,Autumn     ,Groundnut,1342,1512.4,0.000868854
+Odisha,ANUGUL,2013,Autumn     ,Maize,482,490.8,0.000281958
+Odisha,ANUGUL,2013,Autumn     ,Moong(Green Gram),957,205.8,0.000118229
+Odisha,ANUGUL,2013,Autumn     ,Sesamum,344,82.9,4.76E-05
+Odisha,ANUGUL,2013,Autumn     ,Urad,1315,352.4,0.000202449
+Odisha,ANUGUL,2013,Summer     ,Groundnut,181,242.9,0.000139543
+Odisha,ANUGUL,2013,Summer     ,Maize,26,43.4,2.49E-05
+Odisha,ANUGUL,2013,Summer     ,Moong(Green Gram),306,107.7,6.19E-05
+Odisha,ANUGUL,2013,Summer     ,Sesamum,104,29.2,1.68E-05
+Odisha,ANUGUL,2013,Summer     ,Urad,53,22.3,1.28E-05
+Odisha,ANUGUL,2013,Winter     ,Groundnut,371,527.6,0.000303099
+Odisha,ANUGUL,2013,Winter     ,Horse-gram,2157,722.6,0.000415124
+Odisha,ANUGUL,2013,Winter     ,Maize,38,68.6,3.94E-05
+Odisha,ANUGUL,2013,Winter     ,Moong(Green Gram),803,210.4,0.000120872
+Odisha,ANUGUL,2013,Winter     ,Sesamum,1213,241.4,0.000138681
+Odisha,ANUGUL,2013,Winter     ,Urad,1154,326.6,0.000187627
+Odisha,BALANGIR,2013,Autumn     ,Groundnut,4478,5597.5,0.003215689
+Odisha,BALANGIR,2013,Autumn     ,Maize,1360,2711.4,0.001557663
+Odisha,BALANGIR,2013,Autumn     ,Moong(Green Gram),5993,2115.5,0.001215327
+Odisha,BALANGIR,2013,Autumn     ,Ragi,248,244.5,0.000140462
+Odisha,BALANGIR,2013,Autumn     ,Sesamum,1420,325.2,0.000186823
+Odisha,BALANGIR,2013,Autumn     ,Urad,6759,2426.5,0.001393992
+Odisha,BALANGIR,2013,Summer     ,Groundnut,22,49.1,2.82E-05
+Odisha,BALANGIR,2013,Summer     ,Maize,40,117.2,6.73E-05
+Odisha,BALANGIR,2013,Summer     ,Moong(Green Gram),1864,1045.7,0.000600741
+Odisha,BALANGIR,2013,Summer     ,Sesamum,16,3.3,1.90E-06
+Odisha,BALANGIR,2013,Summer     ,Urad,479,357.8,0.000205551
+Odisha,BALANGIR,2013,Summer     ,Wheat,6,14.5,8.33E-06
+Odisha,BALANGIR,2013,Winter     ,Groundnut,12,12.3,7.07E-06
+Odisha,BALANGIR,2013,Winter     ,Horse-gram,6782,2841.7,0.001632519
+Odisha,BALANGIR,2013,Winter     ,Moong(Green Gram),5845,2302.9,0.001322985
+Odisha,BALANGIR,2013,Winter     ,Sesamum,1518,283.9,0.000163097
+Odisha,BALANGIR,2013,Winter     ,Urad,678,368.2,0.000211526
+Odisha,BALESHWAR,2013,Autumn     ,Urad,17,2.6,1.49E-06
+Odisha,BALESHWAR,2013,Summer     ,Groundnut,1500,2119.5,0.001217625
+Odisha,BALESHWAR,2013,Summer     ,Moong(Green Gram),1723,771.9,0.000443446
+Odisha,BALESHWAR,2013,Summer     ,Sesamum,359,119.2,6.85E-05
+Odisha,BALESHWAR,2013,Summer     ,Urad,174,80.4,4.62E-05
+Odisha,BALESHWAR,2013,Summer     ,Wheat,60,78.5,4.51E-05
+Odisha,BALESHWAR,2013,Winter     ,Horse-gram,1,0.2,1.15E-07
+Odisha,BALESHWAR,2013,Winter     ,Urad,16,7.6,4.37E-06
+Odisha,BARGARH,2013,Autumn     ,Groundnut,13134,14605,0.008390378
+Odisha,BARGARH,2013,Autumn     ,Maize,100,171.4,9.85E-05
+Odisha,BARGARH,2013,Autumn     ,Moong(Green Gram),15615,5090.5,0.002924425
+Odisha,BARGARH,2013,Autumn     ,Sesamum,10,3.4,1.95E-06
+Odisha,BARGARH,2013,Autumn     ,Urad,9556,3268.2,0.001877537
+Odisha,BARGARH,2013,Summer     ,Groundnut,1512,2218.1,0.001274269
+Odisha,BARGARH,2013,Summer     ,Maize,9,17.6,1.01E-05
+Odisha,BARGARH,2013,Summer     ,Moong(Green Gram),824,315.6,0.000181308
+Odisha,BARGARH,2013,Summer     ,Sesamum,94,36.7,2.11E-05
+Odisha,BARGARH,2013,Summer     ,Urad,23,9.2,5.29E-06
+Odisha,BARGARH,2013,Summer     ,Wheat,4,5.2,2.99E-06
+Odisha,BARGARH,2013,Winter     ,Horse-gram,1019,321,0.00018441
+Odisha,BARGARH,2013,Winter     ,Moong(Green Gram),84,23.8,1.37E-05
+Odisha,BARGARH,2013,Winter     ,Sesamum,1098,221.8,0.000127421
+Odisha,BARGARH,2013,Winter     ,Urad,13,4.7,2.70E-06
+Odisha,BHADRAK,2013,Autumn     ,Urad,1,0.5,2.87E-07
+Odisha,BHADRAK,2013,Summer     ,Groundnut,10,10.3,5.92E-06
+Odisha,BHADRAK,2013,Summer     ,Horse-gram,1,0.2,1.15E-07
+Odisha,BHADRAK,2013,Summer     ,Maize,3,4.2,2.41E-06
+Odisha,BHADRAK,2013,Summer     ,Moong(Green Gram),3007,1692.9,0.000972549
+Odisha,BHADRAK,2013,Summer     ,Sesamum,90,26.2,1.51E-05
+Odisha,BHADRAK,2013,Summer     ,Urad,99,47.8,2.75E-05
+Odisha,BHADRAK,2013,Summer     ,Wheat,20,19.4,1.11E-05
+Odisha,BHADRAK,2013,Winter     ,Moong(Green Gram),33,22.5,1.29E-05
+Odisha,BHADRAK,2013,Winter     ,Urad,1069,568.7,0.000326711
+Odisha,BOUDH,2013,Autumn     ,Groundnut,36,22.1,1.27E-05
+Odisha,BOUDH,2013,Autumn     ,Maize,184,143.5,8.24E-05
+Odisha,BOUDH,2013,Autumn     ,Moong(Green Gram),446,85.2,4.89E-05
+Odisha,BOUDH,2013,Autumn     ,Ragi,1,0.2,1.15E-07
+Odisha,BOUDH,2013,Autumn     ,Sesamum,1,0.1,5.74E-08
+Odisha,BOUDH,2013,Autumn     ,Urad,4,0.5,2.87E-07
+Odisha,BOUDH,2013,Summer     ,Groundnut,6,3.9,2.24E-06
+Odisha,BOUDH,2013,Summer     ,Maize,1,1.5,8.62E-07
+Odisha,BOUDH,2013,Summer     ,Moong(Green Gram),717,153.4,8.81E-05
+Odisha,BOUDH,2013,Summer     ,Sesamum,6,1.6,9.19E-07
+Odisha,BOUDH,2013,Summer     ,Wheat,29,55.3,3.18E-05
+Odisha,BOUDH,2013,Winter     ,Groundnut,10,7,4.02E-06
+Odisha,BOUDH,2013,Winter     ,Horse-gram,1707,409.7,0.000235367
+Odisha,BOUDH,2013,Winter     ,Moong(Green Gram),1188,264.9,0.000152182
+Odisha,BOUDH,2013,Winter     ,Sesamum,344,55.4,3.18E-05
+Odisha,BOUDH,2013,Winter     ,Urad,334,71.1,4.08E-05
+Odisha,CUTTACK,2013,Autumn     ,Groundnut,20,21.2,1.22E-05
+Odisha,CUTTACK,2013,Summer     ,Groundnut,1458,1931.9,0.001109851
+Odisha,CUTTACK,2013,Summer     ,Horse-gram,18,9.2,5.29E-06
+Odisha,CUTTACK,2013,Summer     ,Moong(Green Gram),20665,7439.4,0.004273836
+Odisha,CUTTACK,2013,Summer     ,Sesamum,5,1.1,6.32E-07
+Odisha,CUTTACK,2013,Summer     ,Urad,300,132,7.58E-05
+Odisha,CUTTACK,2013,Winter     ,Horse-gram,1008,370.9,0.000213077
+Odisha,CUTTACK,2013,Winter     ,Maize,5,8.1,4.65E-06
+Odisha,CUTTACK,2013,Winter     ,Moong(Green Gram),50,17,9.77E-06
+Odisha,CUTTACK,2013,Winter     ,Urad,3021,1160.1,0.000666462
+Odisha,DEOGARH,2013,Autumn     ,Groundnut,22,41.6,2.39E-05
+Odisha,DEOGARH,2013,Autumn     ,Maize,37,53.5,3.07E-05
+Odisha,DEOGARH,2013,Autumn     ,Moong(Green Gram),43,11.4,6.55E-06
+Odisha,DEOGARH,2013,Autumn     ,Urad,71,22.3,1.28E-05
+Odisha,DEOGARH,2013,Summer     ,Groundnut,64,106.9,6.14E-05
+Odisha,DEOGARH,2013,Summer     ,Maize,7,10.6,6.09E-06
+Odisha,DEOGARH,2013,Summer     ,Moong(Green Gram),110,36.7,2.11E-05
+Odisha,DEOGARH,2013,Summer     ,Sesamum,94,25.6,1.47E-05
+Odisha,DEOGARH,2013,Summer     ,Wheat,8,15.6,8.96E-06
+Odisha,DEOGARH,2013,Winter     ,Horse-gram,241,82.2,4.72E-05
+Odisha,DEOGARH,2013,Winter     ,Moong(Green Gram),45,12.9,7.41E-06
+Odisha,DEOGARH,2013,Winter     ,Sesamum,380,93.5,5.37E-05
+Odisha,DEOGARH,2013,Winter     ,Urad,5,1.5,8.62E-07
+Odisha,DHENKANAL,2013,Autumn     ,Groundnut,276,356.3,0.00020469
+Odisha,DHENKANAL,2013,Autumn     ,Maize,35,43.8,2.52E-05
+Odisha,DHENKANAL,2013,Autumn     ,Moong(Green Gram),15,2.2,1.26E-06
+Odisha,DHENKANAL,2013,Autumn     ,Ragi,1,0.4,2.30E-07
+Odisha,DHENKANAL,2013,Autumn     ,Sesamum,5,2.2,1.26E-06
+Odisha,DHENKANAL,2013,Autumn     ,Urad,10,2.8,1.61E-06
+Odisha,DHENKANAL,2013,Summer     ,Groundnut,1470,3494.2,0.002007371
+Odisha,DHENKANAL,2013,Summer     ,Maize,1,1.2,6.89E-07
+Odisha,DHENKANAL,2013,Summer     ,Moong(Green Gram),1218,562.7,0.000323264
+Odisha,DHENKANAL,2013,Summer     ,Sesamum,13,5.3,3.04E-06
+Odisha,DHENKANAL,2013,Summer     ,Urad,12,3.1,1.78E-06
+Odisha,DHENKANAL,2013,Summer     ,Wheat,3,7.4,4.25E-06
+Odisha,DHENKANAL,2013,Winter     ,Groundnut,52,98.5,5.66E-05
+Odisha,DHENKANAL,2013,Winter     ,Horse-gram,522,216.6,0.000124434
+Odisha,DHENKANAL,2013,Winter     ,Moong(Green Gram),513,190.8,0.000109612
+Odisha,DHENKANAL,2013,Winter     ,Sesamum,90,19,1.09E-05
+Odisha,DHENKANAL,2013,Winter     ,Urad,2931,1254.5,0.000720694
+Odisha,GAJAPATI,2013,Autumn     ,Groundnut,199,198.4,0.000113978
+Odisha,GAJAPATI,2013,Autumn     ,Maize,11836,13520.5,0.007767348
+Odisha,GAJAPATI,2013,Autumn     ,Ragi,1060,813,0.000467058
+Odisha,GAJAPATI,2013,Summer     ,Groundnut,313,333.7,0.000191706
+Odisha,GAJAPATI,2013,Summer     ,Moong(Green Gram),1,0.1,5.74E-08
+Odisha,GAJAPATI,2013,Summer     ,Ragi,7,5.2,2.99E-06
+Odisha,GAJAPATI,2013,Summer     ,Sesamum,1013,207.7,0.000119321
+Odisha,GAJAPATI,2013,Winter     ,Horse-gram,537,107.4,6.17E-05
+Odisha,GAJAPATI,2013,Winter     ,Moong(Green Gram),2370,540.4,0.000310453
+Odisha,GAJAPATI,2013,Winter     ,Ragi,1,0.8,4.60E-07
+Odisha,GAJAPATI,2013,Winter     ,Sesamum,12,1.4,8.04E-07
+Odisha,GAJAPATI,2013,Winter     ,Urad,2842,525.8,0.000302065
+Odisha,GANJAM,2013,Autumn     ,Groundnut,960,673.9,0.000387147
+Odisha,GANJAM,2013,Autumn     ,Maize,717,1284.3,0.000737813
+Odisha,GANJAM,2013,Autumn     ,Moong(Green Gram),3,0.1,5.74E-08
+Odisha,GANJAM,2013,Autumn     ,Ragi,1761,1354.2,0.00077797
+Odisha,GANJAM,2013,Autumn     ,Urad,45,5.1,2.93E-06
+Odisha,GANJAM,2013,Summer     ,Groundnut,1790,2665.3,0.001531179
+Odisha,GANJAM,2013,Summer     ,Maize,34,67.3,3.87E-05
+Odisha,GANJAM,2013,Summer     ,Moong(Green Gram),6,2.6,1.49E-06
+Odisha,GANJAM,2013,Summer     ,Ragi,36,38.5,2.21E-05
+Odisha,GANJAM,2013,Summer     ,Sesamum,1806,310.6,0.000178436
+Odisha,GANJAM,2013,Winter     ,Groundnut,37,66.2,3.80E-05
+Odisha,GANJAM,2013,Winter     ,Horse-gram,943,253.7,0.000145747
+Odisha,GANJAM,2013,Winter     ,Maize,9,13.9,7.99E-06
+Odisha,GANJAM,2013,Winter     ,Moong(Green Gram),39868,8970.3,0.005153318
+Odisha,GANJAM,2013,Winter     ,Ragi,6,9,5.17E-06
+Odisha,GANJAM,2013,Winter     ,Sesamum,32,3.6,2.07E-06
+Odisha,GANJAM,2013,Winter     ,Urad,4833,1087.4,0.000624697
+Odisha,JAGATSINGHAPUR,2013,Summer     ,Groundnut,954,1755.4,0.001008454
+Odisha,JAGATSINGHAPUR,2013,Summer     ,Horse-gram,3,1.7,9.77E-07
+Odisha,JAGATSINGHAPUR,2013,Summer     ,Maize,4,7.5,4.31E-06
+Odisha,JAGATSINGHAPUR,2013,Summer     ,Moong(Green Gram),33155,17804.2,0.010228276
+Odisha,JAGATSINGHAPUR,2013,Summer     ,Sesamum,4,2,1.15E-06
+Odisha,JAGATSINGHAPUR,2013,Summer     ,Urad,311,121.6,6.99E-05
+Odisha,JAGATSINGHAPUR,2013,Winter     ,Horse-gram,810,342.6,0.000196819
+Odisha,JAGATSINGHAPUR,2013,Winter     ,Maize,7,11.2,6.43E-06
+Odisha,JAGATSINGHAPUR,2013,Winter     ,Urad,1767,503.6,0.000289312
+Odisha,JAJAPUR,2013,Autumn     ,Groundnut,89,115.7,6.65E-05
+Odisha,JAJAPUR,2013,Autumn     ,Maize,35,28.1,1.61E-05
+Odisha,JAJAPUR,2013,Summer     ,Groundnut,10503,19147,0.010999697
+Odisha,JAJAPUR,2013,Summer     ,Moong(Green Gram),9431,2744.4,0.001576621
+Odisha,JAJAPUR,2013,Summer     ,Urad,38,13.7,7.87E-06
+Odisha,JAJAPUR,2013,Summer     ,Wheat,13,17.1,9.82E-06
+Odisha,JAJAPUR,2013,Winter     ,Horse-gram,427,102.1,5.87E-05
+Odisha,JAJAPUR,2013,Winter     ,Moong(Green Gram),30,3.3,1.90E-06
+Odisha,JAJAPUR,2013,Winter     ,Urad,3612,552.6,0.000317461
+Odisha,JHARSUGUDA,2013,Autumn     ,Groundnut,90,127.7,7.34E-05
+Odisha,JHARSUGUDA,2013,Autumn     ,Maize,49,104.7,6.01E-05
+Odisha,JHARSUGUDA,2013,Autumn     ,Urad,3,0.4,2.30E-07
+Odisha,JHARSUGUDA,2013,Summer     ,Groundnut,43,84.3,4.84E-05
+Odisha,JHARSUGUDA,2013,Summer     ,Maize,2,6,3.45E-06
+Odisha,JHARSUGUDA,2013,Summer     ,Moong(Green Gram),261,97.4,5.60E-05
+Odisha,JHARSUGUDA,2013,Summer     ,Sesamum,6,1.5,8.62E-07
+Odisha,JHARSUGUDA,2013,Summer     ,Wheat,17,25.6,1.47E-05
+Odisha,JHARSUGUDA,2013,Winter     ,Horse-gram,116,39.6,2.27E-05
+Odisha,JHARSUGUDA,2013,Winter     ,Sesamum,347,117.6,6.76E-05
+Odisha,KALAHANDI,2013,Autumn     ,Groundnut,656,560.9,0.00032223
+Odisha,KALAHANDI,2013,Autumn     ,Maize,3818,5836.1,0.003352762
+Odisha,KALAHANDI,2013,Autumn     ,Moong(Green Gram),1,0.3,1.72E-07
+Odisha,KALAHANDI,2013,Autumn     ,Ragi,383,183.8,0.000105591
+Odisha,KALAHANDI,2013,Autumn     ,Urad,2,0.7,4.02E-07
+Odisha,KALAHANDI,2013,Summer     ,Groundnut,1245,1479.1,0.000849723
+Odisha,KALAHANDI,2013,Summer     ,Maize,9,13.1,7.53E-06
+Odisha,KALAHANDI,2013,Summer     ,Moong(Green Gram),7221,2736.8,0.001572255
+Odisha,KALAHANDI,2013,Summer     ,Sesamum,1,0.1,5.74E-08
+Odisha,KALAHANDI,2013,Summer     ,Urad,19,3.3,1.90E-06
+Odisha,KALAHANDI,2013,Winter     ,Groundnut,309,314.3,0.000180561
+Odisha,KALAHANDI,2013,Winter     ,Horse-gram,4862,1609.3,0.000924521
+Odisha,KALAHANDI,2013,Winter     ,Moong(Green Gram),4898,1714.3,0.000984843
+Odisha,KALAHANDI,2013,Winter     ,Ragi,766,402.9,0.000231461
+Odisha,KALAHANDI,2013,Winter     ,Sesamum,194,25.2,1.45E-05
+Odisha,KALAHANDI,2013,Winter     ,Urad,4267,1531.9,0.000880056
+Odisha,KANDHAMAL,2013,Autumn     ,Groundnut,372,266.7,0.000153216
+Odisha,KANDHAMAL,2013,Autumn     ,Maize,2040,1969.1,0.001131222
+Odisha,KANDHAMAL,2013,Autumn     ,Ragi,18,11.8,6.78E-06
+Odisha,KANDHAMAL,2013,Autumn     ,Urad,39,3.3,1.90E-06
+Odisha,KANDHAMAL,2013,Summer     ,Maize,1,1.8,1.03E-06
+Odisha,KANDHAMAL,2013,Winter     ,Groundnut,8,12.2,7.01E-06
+Odisha,KANDHAMAL,2013,Winter     ,Horse-gram,1658,419.5,0.000240997
+Odisha,KANDHAMAL,2013,Winter     ,Maize,1,1.4,8.04E-07
+Odisha,KANDHAMAL,2013,Winter     ,Moong(Green Gram),152,28.1,1.61E-05
+Odisha,KANDHAMAL,2013,Winter     ,Sesamum,29,5.7,3.27E-06
+Odisha,KANDHAMAL,2013,Winter     ,Urad,290,59.7,3.43E-05
+Odisha,KENDRAPARA,2013,Summer     ,Groundnut,1985,3297.1,0.00189414
+Odisha,KENDRAPARA,2013,Summer     ,Moong(Green Gram),20701,8073.4,0.004638061
+Odisha,KENDRAPARA,2013,Summer     ,Sesamum,16,7.5,4.31E-06
+Odisha,KENDRAPARA,2013,Summer     ,Urad,965,398.5,0.000228933
+Odisha,KENDRAPARA,2013,Summer     ,Wheat,3,6.3,3.62E-06
+Odisha,KENDRAPARA,2013,Winter     ,Horse-gram,263,83.4,4.79E-05
+Odisha,KENDRAPARA,2013,Winter     ,Urad,5796,1512.8,0.000869083
+Odisha,KENDUJHAR,2013,Autumn     ,Groundnut,34,31.3,1.80E-05
+Odisha,KENDUJHAR,2013,Autumn     ,Maize,1425,2550.1,0.001464999
+Odisha,KENDUJHAR,2013,Autumn     ,Sesamum,56,13.2,7.58E-06
+Odisha,KENDUJHAR,2013,Autumn     ,Urad,597,174.3,0.000100133
+Odisha,KENDUJHAR,2013,Summer     ,Groundnut,78,76.8,4.41E-05
+Odisha,KENDUJHAR,2013,Summer     ,Maize,4,8.6,4.94E-06
+Odisha,KENDUJHAR,2013,Summer     ,Moong(Green Gram),297,68.6,3.94E-05
+Odisha,KENDUJHAR,2013,Summer     ,Sesamum,22,9.8,5.63E-06
+Odisha,KENDUJHAR,2013,Summer     ,Wheat,58,92.7,5.33E-05
+Odisha,KENDUJHAR,2013,Winter     ,Groundnut,63,74.2,4.26E-05
+Odisha,KENDUJHAR,2013,Winter     ,Horse-gram,1226,353.1,0.000202851
+Odisha,KENDUJHAR,2013,Winter     ,Moong(Green Gram),132,31.5,1.81E-05
+Odisha,KENDUJHAR,2013,Winter     ,Sesamum,10,3.1,1.78E-06
+Odisha,KENDUJHAR,2013,Winter     ,Urad,232,56.8,3.26E-05
+Odisha,KHORDHA,2013,Autumn     ,Maize,23,62.7,3.60E-05
+Odisha,KHORDHA,2013,Summer     ,Groundnut,414,556.4,0.000319644
+Odisha,KHORDHA,2013,Summer     ,Horse-gram,40,9.7,5.57E-06
+Odisha,KHORDHA,2013,Summer     ,Maize,2,4.4,2.53E-06
+Odisha,KHORDHA,2013,Summer     ,Moong(Green Gram),12047,3614.1,0.002076252
+Odisha,KHORDHA,2013,Summer     ,Ragi,5,3.6,2.07E-06
+Odisha,KHORDHA,2013,Summer     ,Sesamum,175,82.6,4.75E-05
+Odisha,KHORDHA,2013,Summer     ,Urad,154,47.7,2.74E-05
+Odisha,KHORDHA,2013,Winter     ,Horse-gram,453,131.8,7.57E-05
+Odisha,KHORDHA,2013,Winter     ,Moong(Green Gram),678,164.1,9.43E-05
+Odisha,KHORDHA,2013,Winter     ,Sesamum,10,1.5,8.62E-07
+Odisha,KHORDHA,2013,Winter     ,Urad,1346,280,0.000160856
+Odisha,KORAPUT,2013,Autumn     ,Groundnut,33,36.9,2.12E-05
+Odisha,KORAPUT,2013,Autumn     ,Maize,4912,9699.4,0.005572176
+Odisha,KORAPUT,2013,Autumn     ,Ragi,5963,4979.1,0.002860427
+Odisha,KORAPUT,2013,Autumn     ,Urad,1,0.2,1.15E-07
+Odisha,KORAPUT,2013,Summer     ,Groundnut,193,250.3,0.000143794
+Odisha,KORAPUT,2013,Summer     ,Maize,456,1038.3,0.00059649
+Odisha,KORAPUT,2013,Summer     ,Moong(Green Gram),582,590.1,0.000339005
+Odisha,KORAPUT,2013,Summer     ,Ragi,68,51.2,2.94E-05
+Odisha,KORAPUT,2013,Summer     ,Wheat,1,3.5,2.01E-06
+Odisha,KORAPUT,2013,Winter     ,Groundnut,197,275.2,0.000158099
+Odisha,KORAPUT,2013,Winter     ,Horse-gram,2829,1284.4,0.000737871
+Odisha,KORAPUT,2013,Winter     ,Maize,11,38.6,2.22E-05
+Odisha,KORAPUT,2013,Winter     ,Moong(Green Gram),45,20.9,1.20E-05
+Odisha,KORAPUT,2013,Winter     ,Ragi,27955,25131.5,0.014437713
+Odisha,KORAPUT,2013,Winter     ,Sesamum,235,99.4,5.71E-05
+Odisha,KORAPUT,2013,Winter     ,Urad,2110,732.2,0.000420639
+Odisha,MALKANGIRI,2013,Autumn     ,Maize,876,983.1,0.000564778
+Odisha,MALKANGIRI,2013,Autumn     ,Ragi,775,393.7,0.000226175
+Odisha,MALKANGIRI,2013,Summer     ,Groundnut,3360,7983.4,0.004586357
+Odisha,MALKANGIRI,2013,Summer     ,Maize,113,231.3,0.000132879
+Odisha,MALKANGIRI,2013,Summer     ,Moong(Green Gram),15,3.7,2.13E-06
+Odisha,MALKANGIRI,2013,Winter     ,Groundnut,315,679.8,0.000390536
+Odisha,MALKANGIRI,2013,Winter     ,Horse-gram,1594,388.9,0.000223418
+Odisha,MALKANGIRI,2013,Winter     ,Maize,42,64.5,3.71E-05
+Odisha,MALKANGIRI,2013,Winter     ,Moong(Green Gram),97,24.9,1.43E-05
+Odisha,MALKANGIRI,2013,Winter     ,Ragi,4072,2781.2,0.001597762
+Odisha,MALKANGIRI,2013,Winter     ,Sesamum,6738,1428.5,0.000820654
+Odisha,MALKANGIRI,2013,Winter     ,Urad,1371,324.9,0.000186651
+Odisha,MAYURBHANJ,2013,Autumn     ,Groundnut,23,13.7,7.87E-06
+Odisha,MAYURBHANJ,2013,Autumn     ,Maize,1548,2649.4,0.001522045
+Odisha,MAYURBHANJ,2013,Autumn     ,Sesamum,117,34.7,1.99E-05
+Odisha,MAYURBHANJ,2013,Autumn     ,Urad,697,174.3,0.000100133
+Odisha,MAYURBHANJ,2013,Summer     ,Groundnut,2208,3062.5,0.001759366
+Odisha,MAYURBHANJ,2013,Summer     ,Maize,80,161.9,9.30E-05
+Odisha,MAYURBHANJ,2013,Summer     ,Moong(Green Gram),863,446.2,0.000256336
+Odisha,MAYURBHANJ,2013,Summer     ,Sesamum,175,100.8,5.79E-05
+Odisha,MAYURBHANJ,2013,Summer     ,Urad,54,23.6,1.36E-05
+Odisha,MAYURBHANJ,2013,Summer     ,Wheat,129,181.5,0.000104269
+Odisha,MAYURBHANJ,2013,Winter     ,Groundnut,33,22.7,1.30E-05
+Odisha,MAYURBHANJ,2013,Winter     ,Horse-gram,505,134.8,7.74E-05
+Odisha,MAYURBHANJ,2013,Winter     ,Maize,22,44.4,2.55E-05
+Odisha,MAYURBHANJ,2013,Winter     ,Moong(Green Gram),28,6.6,3.79E-06
+Odisha,MAYURBHANJ,2013,Winter     ,Sesamum,33,10.9,6.26E-06
+Odisha,MAYURBHANJ,2013,Winter     ,Urad,19,4.8,2.76E-06
+Odisha,NABARANGPUR,2013,Autumn     ,Groundnut,181,115.5,6.64E-05
+Odisha,NABARANGPUR,2013,Autumn     ,Maize,56139,202549.5,0.116361995
+Odisha,NABARANGPUR,2013,Autumn     ,Ragi,1095,557.4,0.000320219
+Odisha,NABARANGPUR,2013,Summer     ,Groundnut,32,18.6,1.07E-05
+Odisha,NABARANGPUR,2013,Summer     ,Maize,2614,8438,0.004847519
+Odisha,NABARANGPUR,2013,Summer     ,Moong(Green Gram),730,264.3,0.000151837
+Odisha,NABARANGPUR,2013,Summer     ,Ragi,16,7.3,4.19E-06
+Odisha,NABARANGPUR,2013,Summer     ,Wheat,9,5.9,3.39E-06
+Odisha,NABARANGPUR,2013,Winter     ,Horse-gram,1644,905.8,0.00052037
+Odisha,NABARANGPUR,2013,Winter     ,Urad,2610,1216.3,0.000698748
+Odisha,NAYAGARH,2013,Autumn     ,Groundnut,1,0.6,3.45E-07
+Odisha,NAYAGARH,2013,Autumn     ,Maize,299,468.1,0.000268917
+Odisha,NAYAGARH,2013,Autumn     ,Ragi,27,13.3,7.64E-06
+Odisha,NAYAGARH,2013,Summer     ,Groundnut,1,0.5,2.87E-07
+Odisha,NAYAGARH,2013,Summer     ,Maize,3,3.2,1.84E-06
+Odisha,NAYAGARH,2013,Summer     ,Sesamum,19,4.3,2.47E-06
+Odisha,NAYAGARH,2013,Summer     ,Urad,51,15.5,8.90E-06
+Odisha,NAYAGARH,2013,Winter     ,Groundnut,41,44.6,2.56E-05
+Odisha,NAYAGARH,2013,Winter     ,Horse-gram,1377,399.3,0.000229393
+Odisha,NAYAGARH,2013,Winter     ,Moong(Green Gram),31814,9162.4,0.005263677
+Odisha,NAYAGARH,2013,Winter     ,Sesamum,79,12.8,7.35E-06
+Odisha,NAYAGARH,2013,Winter     ,Urad,5312,1529.9,0.000878907
+Odisha,NUAPADA,2013,Autumn     ,Groundnut,1205,1073.7,0.000616826
+Odisha,NUAPADA,2013,Autumn     ,Maize,564,686.6,0.000394443
+Odisha,NUAPADA,2013,Autumn     ,Moong(Green Gram),792,113.3,6.51E-05
+Odisha,NUAPADA,2013,Autumn     ,Ragi,332,171.3,9.84E-05
+Odisha,NUAPADA,2013,Autumn     ,Sesamum,712,85.4,4.91E-05
+Odisha,NUAPADA,2013,Autumn     ,Urad,6880,1417.3,0.00081422
+Odisha,NUAPADA,2013,Summer     ,Groundnut,211,397.1,0.000228129
+Odisha,NUAPADA,2013,Summer     ,Maize,1,1.2,6.89E-07
+Odisha,NUAPADA,2013,Summer     ,Moong(Green Gram),1759,541.8,0.000311257
+Odisha,NUAPADA,2013,Summer     ,Wheat,2,1.6,9.19E-07
+Odisha,NUAPADA,2013,Winter     ,Groundnut,185,146.3,8.40E-05
+Odisha,NUAPADA,2013,Winter     ,Horse-gram,1401,381.1,0.000218937
+Odisha,NUAPADA,2013,Winter     ,Moong(Green Gram),348,153.1,8.80E-05
+Odisha,NUAPADA,2013,Winter     ,Sesamum,179,19.3,1.11E-05
+Odisha,NUAPADA,2013,Winter     ,Urad,165,45.9,2.64E-05
+Odisha,PURI,2013,Summer     ,Groundnut,3581,5436,0.00312291
+Odisha,PURI,2013,Summer     ,Moong(Green Gram),18498,6881.3,0.003953215
+Odisha,PURI,2013,Summer     ,Ragi,20,12,6.89E-06
+Odisha,PURI,2013,Summer     ,Sesamum,315,100.5,5.77E-05
+Odisha,PURI,2013,Summer     ,Urad,273,64.7,3.72E-05
+Odisha,PURI,2013,Winter     ,Horse-gram,1283,423.4,0.000243238
+Odisha,PURI,2013,Winter     ,Moong(Green Gram),22,8.3,4.77E-06
+Odisha,PURI,2013,Winter     ,Urad,4714,1744.2,0.00100202
+Odisha,RAYAGADA,2013,Autumn     ,Groundnut,245,196.7,0.000113002
+Odisha,RAYAGADA,2013,Autumn     ,Maize,3912,5353.2,0.003075342
+Odisha,RAYAGADA,2013,Autumn     ,Ragi,3995,2764.5,0.001588168
+Odisha,RAYAGADA,2013,Summer     ,Groundnut,93,131.5,7.55E-05
+Odisha,RAYAGADA,2013,Summer     ,Maize,179,247.9,0.000142415
+Odisha,RAYAGADA,2013,Summer     ,Ragi,77,73.3,4.21E-05
+Odisha,RAYAGADA,2013,Summer     ,Sesamum,243,109.1,6.27E-05
+Odisha,RAYAGADA,2013,Winter     ,Groundnut,36,30,1.72E-05
+Odisha,RAYAGADA,2013,Winter     ,Horse-gram,3056,1133.8,0.000651353
+Odisha,RAYAGADA,2013,Winter     ,Maize,143,169.1,9.71E-05
+Odisha,RAYAGADA,2013,Winter     ,Moong(Green Gram),70,19.6,1.13E-05
+Odisha,RAYAGADA,2013,Winter     ,Ragi,7837,5775.9,0.003318178
+Odisha,RAYAGADA,2013,Winter     ,Sesamum,2040,630.4,0.000362156
+Odisha,RAYAGADA,2013,Winter     ,Urad,3355,1070.2,0.000614816
+Odisha,SAMBALPUR,2013,Autumn     ,Groundnut,110,91.4,5.25E-05
+Odisha,SAMBALPUR,2013,Autumn     ,Maize,241,264.1,0.000151722
+Odisha,SAMBALPUR,2013,Autumn     ,Moong(Green Gram),52,23.5,1.35E-05
+Odisha,SAMBALPUR,2013,Autumn     ,Ragi,42,27.8,1.60E-05
+Odisha,SAMBALPUR,2013,Autumn     ,Urad,59,19.5,1.12E-05
+Odisha,SAMBALPUR,2013,Summer     ,Groundnut,33,36,2.07E-05
+Odisha,SAMBALPUR,2013,Summer     ,Moong(Green Gram),203,98,5.63E-05
+Odisha,SAMBALPUR,2013,Summer     ,Sesamum,32,16.5,9.48E-06
+Odisha,SAMBALPUR,2013,Summer     ,Urad,3,0.9,5.17E-07
+Odisha,SAMBALPUR,2013,Summer     ,Wheat,31,26,1.49E-05
+Odisha,SAMBALPUR,2013,Winter     ,Horse-gram,395,178.1,0.000102316
+Odisha,SAMBALPUR,2013,Winter     ,Moong(Green Gram),49,19.8,1.14E-05
+Odisha,SAMBALPUR,2013,Winter     ,Sesamum,480,200.6,0.000115242
+Odisha,SAMBALPUR,2013,Winter     ,Urad,92,44.7,2.57E-05
+Odisha,SONEPUR,2013,Autumn     ,Groundnut,3,0.9,5.17E-07
+Odisha,SONEPUR,2013,Autumn     ,Maize,17,16.7,9.59E-06
+Odisha,SONEPUR,2013,Autumn     ,Moong(Green Gram),168,68.4,3.93E-05
+Odisha,SONEPUR,2013,Summer     ,Groundnut,590,837.8,0.000481305
+Odisha,SONEPUR,2013,Summer     ,Moong(Green Gram),907,409.1,0.000235023
+Odisha,SONEPUR,2013,Summer     ,Sesamum,23,6.4,3.68E-06
+Odisha,SONEPUR,2013,Summer     ,Wheat,34,73.3,4.21E-05
+Odisha,SONEPUR,2013,Winter     ,Horse-gram,789,265.9,0.000152756
+Odisha,SONEPUR,2013,Winter     ,Moong(Green Gram),1419,492.4,0.000282877
+Odisha,SONEPUR,2013,Winter     ,Sesamum,5,1.2,6.89E-07
+Odisha,SONEPUR,2013,Winter     ,Urad,37,7.4,4.25E-06
+Odisha,SUNDARGARH,2013,Autumn     ,Groundnut,652,749.8,0.00043075
+Odisha,SUNDARGARH,2013,Autumn     ,Maize,612,1136.8,0.000653076
+Odisha,SUNDARGARH,2013,Autumn     ,Moong(Green Gram),50,12.3,7.07E-06
+Odisha,SUNDARGARH,2013,Autumn     ,Ragi,67,32.7,1.88E-05
+Odisha,SUNDARGARH,2013,Autumn     ,Sesamum,72,17.5,1.01E-05
+Odisha,SUNDARGARH,2013,Autumn     ,Urad,1531,427.1,0.000245363
+Odisha,SUNDARGARH,2013,Summer     ,Groundnut,213,320.4,0.000184066
+Odisha,SUNDARGARH,2013,Summer     ,Maize,2,4.1,2.36E-06
+Odisha,SUNDARGARH,2013,Summer     ,Moong(Green Gram),126,41.6,2.39E-05
+Odisha,SUNDARGARH,2013,Summer     ,Wheat,251,438.2,0.00025174
+Odisha,SUNDARGARH,2013,Winter     ,Horse-gram,2433,1126.5,0.000647159
+Odisha,SUNDARGARH,2013,Winter     ,Moong(Green Gram),37,15.8,9.08E-06
+Odisha,SUNDARGARH,2013,Winter     ,Sesamum,1105,361.3,0.000207562
+Odisha,SUNDARGARH,2013,Winter     ,Urad,219,99.9,5.74E-05
 Puducherry,KARAIKAL,2013,Summer     ,Cotton(lint),66,49,2.81E-05
 Puducherry,KARAIKAL,2013,Summer     ,Groundnut,3,3,1.72E-06
 Puducherry,KARAIKAL,2013,Summer     ,Moong(Green Gram),504,171,9.82E-05

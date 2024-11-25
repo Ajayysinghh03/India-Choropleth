@@ -10,12 +10,12 @@ data = pd.read_csv(file_path)
 state_data = data.groupby("State_Name", as_index=False)["pct_production_all_Over_India"].sum()
 
 # Load Indian GeoJSON file
-geojson_path = "india_states.json"  # Replace with your GeoJSON file path
+geojson_path = "india.json"  # Replace with your GeoJSON file path
 with open(geojson_path, "r") as file:
     india_geojson = json.load(file)
 
-# Extract all state names from the GeoJSON file
-geojson_states = [feature["properties"]["NAME_1"] for feature in india_geojson["features"]]
+# Extract all state names from the GeoJSON file   # here
+geojson_states = [feature["properties"]["st_nm"] for feature in india_geojson["features"]]
 
 
 # Ensure all states are included in the data
@@ -32,7 +32,7 @@ fig = px.choropleth(
     state_data_complete,
     geojson=india_geojson,
     locations="State_Name",
-    featureidkey="properties.NAME_1",
+    featureidkey="properties.st_nm",
     color="pct_production_all_Over_India",
     color_continuous_scale=[
         (0.0, "white"),     # For 0 percent production
